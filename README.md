@@ -9,3 +9,7 @@ It lets you capture yourself using your laptop's webcam along with your name and
 It uses p5.js library for capturing the pictures using your webcam. Ofcourse, it will ask for the permission. While capturing, it will also geolocate your position(latitude and longitude). It will store the data in database and you can see the pictures, location and your name there.
 
 This project also has a subtle interface to make it intuitive to use.
+
+### To Run
+1) npm install
+2) npm run start
