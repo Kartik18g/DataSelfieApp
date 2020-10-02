@@ -1,6 +1,7 @@
 # DataSelfieApp
 
 ## Working link: https://serene-edison-888668.netlify.app
+### NOTE: This app is hosted on Netlify which doesn't have support for neDB database. To make this app work properly while hosted you'll need to change the database to mongoDB atlas or something similar to it.
 
 This App lets you capture yourself using your laptop's webcam and stores it along with the coordinates of your place.
 
